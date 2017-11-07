@@ -1,0 +1,25 @@
+* {
+  font-family: 'Roboto Mono', monospace;
+}
+
+html, body {
+  background-image: url('./img/fergie-bg-4.png');
+  background-position: center;
+  background-size: 1366px;
+  /* background-color: darkgray; */
+} 
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #df914e;
+  color: white;
+  text-align: center;
+} 
+
+.btn {
+  color: #fff;
+}
+
