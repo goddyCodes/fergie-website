@@ -5,7 +5,7 @@
 html, body {
   background-image: url('./img/fergie-bg-4.png');
   background-position: center;
-  background-size: 1366px;
+  background-size: 1366px; /* Because my screen is bigger than yours, the background looks weird. Would be a good idea to fix this */
   /* background-color: darkgray; */
 } 
 
